@@ -1,0 +1,4 @@
+name: quodlibet
+include: .
+depend: cubical
+flags: --cubical --no-import-sorts -W noUnsupportedIndexedMatch --guardedness
