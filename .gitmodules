@@ -1,6 +1,3 @@
 [submodule "cubical"]
 	path = cubical
 	url = https://github.com/qlbrpl/cubical.git
-[submodule "1lab"]
-	path = 1lab
-	url = https://github.com/qlbrpl/1lab.git
